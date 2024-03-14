@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg) ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkuldeepsingh-in%2Fkuldeepsingh-in&label=Visitors%20%3A&labelColor=%230a1930&countColor=%230a1930&labelStyle=none)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg) 
 
 
 
@@ -15,8 +15,8 @@
 
 # ✍️ Blog and writing
 <!-- blog-post-list:start -->
-<a href="https://github.com/kuldeepsingh-in/TechWithKD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuldeepsingh-in&repo=TechWithKD&theme=transparent" />
+<a href="">
+  <img src="" />
 </a>
 
 <!--
