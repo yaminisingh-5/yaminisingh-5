@@ -16,7 +16,7 @@
 # ✍️ Blog and writing
 <!-- blog-post-list:start -->
 <a href="">
-  <img src="" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kuldeepsingh-in&repo=TechWithKD&theme=transparent" />
 </a>
 
 <!--
