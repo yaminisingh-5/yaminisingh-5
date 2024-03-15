@@ -6,12 +6,10 @@
 
 # 😎 About me 
 
-- 🔭 Solution Architect
+- 🔭 Senior DevOps Engineer/ Solutions Architect
 - 🌱 Engineering, AI/ML
 - 👯 I’m looking to collaborate on any good idea!
-- 💬 Ask me about anything you want!
-- 📫 How to reach me: See below!
-- ⚡ Fun fact: <>
+- 📫 How to reach me: See below
 
 # ✍️ Blog and writing
 <!-- blog-post-list:start -->
