@@ -9,7 +9,7 @@
 - 🔭 Senior DevOps Engineer/ Solutions Architect
 - 🌱 Engineering, AI/ML
 - 👯 I’m looking to collaborate on any good idea!
-- 📫 How to reach me: See below
+- 📫 How to reach me: https://www.linkedin.com/in/yaminisingh-in/
 
 # ✍️ Blog and writing
 <!-- blog-post-list:start -->
